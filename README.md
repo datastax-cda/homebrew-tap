@@ -1,4 +1,4 @@
-# DataStax Cloud Data Architects (CDA) Homebre Taps
+# DataStax Cloud Data Architects (CDA) Homebrew Taps
 
 This a [brew](https://github.com/mxcl/homebrew) [tap](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme) repository containing a collection of "formulae" for tools created by the DataStax Cloud Data Architects teams. 
 
